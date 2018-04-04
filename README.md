@@ -5,4 +5,4 @@ Solution - either a .java or .py file containing the relevant functions/classes 
 
 Performance.jpg - illustrates the runtime performance of my solution relative to other coders on the site
 
-Description.jpg - contains the problems description and other relevant info
+Description.jpg - contains the problem description and other relevant info
