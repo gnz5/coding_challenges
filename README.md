@@ -1,5 +1,5 @@
 # coding_challenges
-Hello and welcome to my repository containing my solutions to coding challenges found on popular websites like Leetcode and Codewars. Each folder contains 3 files relating to a single problem:
+Each folder contains 3 files relating to a single problem:
 
 Solution - either a .java or .py file containing the relevant functions/classes needed to complete the problem
 
