@@ -2,6 +2,6 @@ Problem Description:
 
 ![Screenshot](Description.JPG)
 
-![Screenshot](Solution.py)
-
 ![Screenshot](Performance.JPG)
+
+![Screenshot](Solution.txt)
