@@ -9,7 +9,7 @@ class Solution {
     			j = i;
     			while(true) {
     				tank += gas[j] - cost[j];
-                    // cannot get to next gas station, exit while loop
+                    		// cannot get to next gas station, exit while loop
     				if(tank < 0)
     					break;
     				// check if at the end of the List. If so, circle back to first index
